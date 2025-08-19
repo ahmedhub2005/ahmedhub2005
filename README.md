@@ -20,8 +20,8 @@
 ---
 
 ### 📂 Featured Projects  
-- 🩻 [Bone Fracture Detection (X-ray)](https://github.com/ahmedhub2005/Bone_Fracture_Binary_Classification)  
-- 🚗 [Car Price Prediction](https://github.com/ahmedhub2005/car-price-predictor)  
+- 🩻 [Bone Fracture Detection (X-ray)](https://bone-fracture-detector-gtt6dngi9pmnwnbdhiwczc.streamlit.app/)  
+- 🚗 [Car Price Prediction](https://cars-prices-prediction-6espnifeffcun84xtatkok.streamlit.app/)  
 - 🫀 [Heart Disease Predictor](https://heart-disease-predictor-yngxppabnp7hbm6xynwbcs.streamlit.app/)  
 
 ---
