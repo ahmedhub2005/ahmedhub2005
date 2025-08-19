@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Ahmed Hamdy</h1>
+<h1 align="center">Hi 👋, I'm Ahmed Hamdy</h1>
 <h3 align="center">Data Scientist | AI & ML Developer</h3>
 
 <p align="center">
@@ -20,10 +20,9 @@
 ---
 
 ### 📂 Featured Projects  
+- 🩻 [Bone Fracture Detection (X-ray)](https://github.com/ahmedhub2005/Bone_Fracture_Binary_Classification)  
+- 🚗 [Car Price Prediction](https://github.com/ahmedhub2005/car-price-predictor)  
 - 🫀 [Heart Disease Predictor](https://heart-disease-predictor-yngxppabnp7hbm6xynwbcs.streamlit.app/)  
-- 🏦 [Fraud Detection System](https://github.com/ahmedhub2005/fraud-detection)  
-- 🏠 [House Price Prediction](https://github.com/ahmedhub2005/HousePricemodel1)  
-- 📈 [Superstore Sales Forecasting](https://github.com/ahmedhub2005/superstore-sales-forecasting)  
 
 ---
 
@@ -44,4 +43,3 @@
   <a href="https://www.linkedin.com/in/ahmed-hamdy/"><img src="https://img.shields.io/badge/LinkedIn-Ahmed%20Hamdy-blue?style=for-the-badge&logo=linkedin"/></a>
   <a href="mailto:ahmed@example.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
-
