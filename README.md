@@ -40,7 +40,7 @@
 
 ### 📫 Connect With Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/ahmed-hamdy/"><img src="https://img.shields.io/badge/LinkedIn-Ahmed%20Hamdy-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://www.linkedin.com/in/ahmed-hamdy/"><img src="https://www.linkedin.com/in/ahmed-hamdy-4569a8360?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"/></a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ahmedhamdyabdelaziz094@gmail.com"><img src="https://img.shields.io/badge/Email-ahmedhamdyabdelaziz094%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
