@@ -40,11 +40,13 @@
 
 ### 📫 Connect With Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/ahmed-hamdy/">
+  <a href="https://www.linkedin.com/in/ahmed-hamdy-4569a8360/">
     <img src="https://img.shields.io/badge/LinkedIn-Ahmed%20Hamdy-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ahmedhamdyabdelaziz094@gmail.com">
     <img src="https://img.shields.io/badge/Email-ahmedhamdyabdelaziz094%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
+
 
