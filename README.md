@@ -1,32 +1,43 @@
-<h1 align="center">Hi , I'm Ahmed Hamdy</h1>
-<h3 align="center">Data Scientist | AI & ML Developer</h3>
+<h1 align="center">👋 Hi, I'm Ahmed Hamdy</h1>
+<h3 align="center">🚀 Data Scientist | AI & ML Developer</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ML-Classification-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ML-Regression-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Python-3.11-yellow?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Framework-Scikit--learn%20%7C%20TensorFlow-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Deployment-Streamlit-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-Classification-blue?style=for-the-badge&logo=ai"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-Regression-orange?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/Python-3.11-yellow?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/Frameworks-Scikit--learn%20|%20TensorFlow-green?style=for-the-badge&logo=tensorflow"/>
+  <img src="https://img.shields.io/badge/Deployment-Streamlit-red?style=for-the-badge&logo=streamlit"/>
 </p>
 
 ---
 
-### 👨‍💻 About Me  
-- 🚀 Passionate about **Data Science, Machine Learning, and AI Applications**  
-- 🧩 Experienced in **Python, Pandas, Scikit-learn, TensorFlow, Streamlit**  
-- 📊 Built projects in **Healthcare AI, Fraud Detection, Sales Forecasting, and Computer Vision**  
-- 🎯 Always learning & exploring **Business Analytics and Deep Learning**  
+## 👨‍💻 About Me
+- 🎯 Passionate about **Data Science, Machine Learning, and AI Applications**  
+- 🧩 Skilled in **Python, Pandas, Scikit-learn, TensorFlow, Streamlit**  
+- 📊 Experienced in **Healthcare AI, Fraud Detection, Sales Forecasting, and Computer Vision**  
+- 🚀 Always exploring **Business Analytics & Deep Learning**  
 
 ---
 
-### 📂 Featured Projects  
-- 🩻 [Bone Fracture Detection (X-ray)](https://bone-fracture-detector-gtt6dngi9pmnwnbdhiwczc.streamlit.app/)  
-- 🚗 [Car Price Prediction](https://cars-prices-prediction-6espnifeffcun84xtatkok.streamlit.app/)  
-- 🫀 [Heart Disease Predictor](https://heart-disease-predictor-yngxppabnp7hbm6xynwbcs.streamlit.app/)  
+## 📂 Featured Projects  
+| Project | Demo | Tech |
+|---------|------|------|
+| 🩻 **Bone Fracture Detection (X-ray)** | [Live App](https://bone-fracture-detector-gtt6dngi9pmnwnbdhiwczc.streamlit.app/) | `TensorFlow` `CNN` `Streamlit` |
+| 🚗 **Car Price Prediction** | [Live App](https://cars-prices-prediction-6espnifeffcun84xtatkok.streamlit.app/) | `Decision Tree` `Pandas` `Streamlit` |
+| 🫀 **Heart Disease Predictor** | [Live App](https://heart-disease-predictor-yngxppabnp7hbm6xynwbcs.streamlit.app/) | `Scikit-learn` `Logistic Regression` `Streamlit` |
 
 ---
 
-### 🛠️ Tech Stack  
+## 📜 Achievements & Certifications  
+- 🎓 **IBM Data Science Professional Certificate** – *Coursera*  
+- 🎓 **IBM Data Analyst Professional Certificate** – *Coursera*  
+- 🎓 **Python for Data Science & Machine Learning Bootcamp** – *Udemy*  
+- 🎓 **Deep Learning with TensorFlow** – *Udemy*  
+- 🏅 Completed multiple hands-on projects integrating **Machine Learning models** into real-world applications.  
+
+---
+
+## 🛠️ Tech Stack  
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
@@ -38,15 +49,16 @@
 
 ---
 
-### 📫 Connect With Me  
+## 📫 Connect With Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmed-hamdy-4569a8360/">
     <img src="https://img.shields.io/badge/LinkedIn-Ahmed%20Hamdy-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ahmedhamdyabdelaziz094@gmail.com">
+  <a href="mailto:ahmedhamdyabdelaziz094@gmail.com">
     <img src="https://img.shields.io/badge/Email-ahmedhamdyabdelaziz094%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
 
 
 
